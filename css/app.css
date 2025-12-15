@@ -4,7 +4,9 @@ body {
     background-color: #F4ECD8;
     color: #4E342E;
 }
-
+:root {
+    --mono-font: 'Roboto Mono', 'Courier New', Courier, monospace;
+}
 h1:focus {
     outline: none;
 }
