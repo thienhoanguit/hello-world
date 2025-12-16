@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "LZcGhsO4",
+  "version": "nB1O3rj9",
   "assets": [
     {
       "hash": "sha256-sOpaKFwCbciAxhNFQHbaBz7IiMjbf/esX1yk+uczQtE=",
@@ -302,15 +302,15 @@ self.assetsManifest = {
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-+xQ/e+W5VOKsdqNRkm/hkUi1A3g26hkLPRMw88NmzMA=",
+      "hash": "sha256-1kAxS4dA8Rmi694WLdCtSApaJU/AX+YKkXf3s0q/RlQ=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-zP/4gafHpAI9njSnOIGA1iT/c0pwhFvSq/A3qVMvO0I=",
+      "hash": "sha256-OpStljvyQafbfR7bfuV0gJxUxK4ahZypLbFSxugdZTw=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-ycczwmI3FTfApOSAsI3QsOn59hZZS9R8MlGwTjt9IYc=",
+      "hash": "sha256-a+PeuYtg2j+sZ6fv/mLcn3cRScv4YzumKAbEB0EPPMQ=",
       "url": "icon.png"
     },
     {
