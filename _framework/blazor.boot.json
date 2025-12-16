@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JhStory",
   "resources": {
-    "hash": "sha256-QXGDXJDT8FJrA36LfIz2bhfnI67siam2kqYSuQvHeY8=",
+    "hash": "sha256-RtMPhMObgku8n+Il3felpT7/k89L2Ubp4OgVgJJ6QtM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-D0bzod5lwwSzPR43JC8TTCcZKw+3jIHOk8CZFCRj5is="
     },
@@ -76,7 +76,7 @@
       "System.Threading.wasm": "sha256-l1N5mKqZevUN7pZgyKazOGsgCY/8IzY+BCQqre7Ty9c=",
       "System.wasm": "sha256-9DLmgOsnmEbjuZrRVFruRmVRvh/skjCDv6hQMjVZ3K8=",
       "System.Private.CoreLib.wasm": "sha256-giqPovch+vKXuBAnZ7n8eM4aeTYoJmkmjyzlY/oqicQ=",
-      "JhStory.wasm": "sha256-95OoUAmfyWkFSauNlKg9xhkTLnutecLqQegW0C//kLA="
+      "JhStory.wasm": "sha256-7lI8Rds2SfCJ2sfoM2rXicSIBCcJqysl3sm8Pzd/oVg="
     }
   },
   "cacheBootResources": true,
