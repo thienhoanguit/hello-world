@@ -244,3 +244,10 @@ main[b-zhs9e6y9q3] {
 .story-bg[b-ue8v3q9ryx] {
     background-color: #DCC7AD;
 }
+.page-action[b-ue8v3q9ryx] {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    background-color: #F4ECD8;
+    opacity: 0.85;
+}
