@@ -234,11 +234,28 @@ main[b-zhs9e6y9q3] {
 .class-font-xxl[b-ue8v3q9ryx], .class-font-xxl *[b-ue8v3q9ryx] {
     font-size: 2rem !important;
 }
+.line-height[b-ue8v3q9ryx], .line-height *[b-ue8v3q9ryx] {
+    line-height: 1.6 !important;
+}
+
+.line-height-md[b-ue8v3q9ryx], .line-height-md *[b-ue8v3q9ryx] {
+    line-height: 1.9 !important;
+}
+
+.line-height-lg[b-ue8v3q9ryx], .line-height-lg *[b-ue8v3q9ryx] {
+    line-height: 2.2 !important;
+}
+
+.line-height-xl[b-ue8v3q9ryx], .line-height-xl *[b-ue8v3q9ryx] {
+    line-height: 2.5 !important;
+}
+
+.line-height-xxl[b-ue8v3q9ryx], .line-height-xxl *[b-ue8v3q9ryx] {
+    line-height: 2.8 !important;
+}
 
 .story-content[b-ue8v3q9ryx], .story-content *[b-ue8v3q9ryx] {
     text-indent: 2rem !important;
-    line-height: 1.6 !important;
-    margin-bottom: 2rem !important;
     text-align: justify;
 }
 
